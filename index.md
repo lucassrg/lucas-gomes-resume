@@ -28,7 +28,7 @@ Senior Technical Product Marketing Manager with over 15 years in tech, combining
 
 ## 🏆 Professional Recognition
 
-- **Employee of the Month – Okta PMM Team**  
+- **Employee of the Month (Q3 2024) – Okta PMM Team**  
   Recognized for impactful technical content, strong cross-functional collaboration, and contributions to high-visibility launches and events.
 
 ---
@@ -80,7 +80,7 @@ Held software engineering roles at IBM, HP, Nexxera, and other companies, where 
 ## 🎓 Education
 
 **Bachelor of Information Systems**  
-*Universidade Federal de Santa Catarina*
+*Universidade Federal de Santa Catarina (Brazil)*
 
 ---
 

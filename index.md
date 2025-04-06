@@ -1,7 +1,3 @@
----
-title: ""
----
-
 **Lucas Gomes**  
 Austin, Texas Metropolitan Area  
 Email: lucas.gomes@gmail.com  
@@ -9,12 +5,12 @@ LinkedIn: [linkedin.com/in/lucassrg](https://linkedin.com/in/lucassrg)
 
 ---
 
-## 🧠 Professional Summary
+### **🧠 Professional Summary**
 Experienced Technical Product Marketing Manager with a strong foundation in software engineering, cloud infrastructure, and identity. I simplify complex technologies by creating clear, hands-on content—like demos, tutorials, whitepapers, and enablement decks—that help developers adopt new tools and enable customers and field teams to understand their value. I’ve helped launch high-impact features at Okta and Oracle, built GenAI-driven labs, and presented at top-tier events and analyst briefings including Oktane, RSA, Gartner, and Forrester.
 
 ---
 
-## 🛠 Skills
+### **🛠 Skills**
 **Languages & Frameworks:** Java, Python, Node.js, React, Next.js, Express, Flask, Kotlin  
 **Cloud/DevOps:** Terraform, GitHub Actions, GitLab, Docker, Kubernetes, AWS, Oracle Cloud, Vercel  
 **Infrastructure Testing & Validation:** Kitchen-Terraform, Terraform validate, Terraform-compliance (BDD)  
@@ -25,12 +21,12 @@ Experienced Technical Product Marketing Manager with a strong foundation in soft
 
 ---
 
-## 🏆 Professional Recognition
+### **🏆 Professional Recognition**
 • Employee of the Month (Q3 2024), Okta Product Marketing team – recognized for impactful technical content and launch contributions.
 
 ---
 
-## 💼 Professional Experience
+### **💼 Professional Experience**
 
 **Sr. Technical Product Marketing Manager**  
 *Okta | Aug 2021 – Present*  
@@ -92,13 +88,13 @@ Experienced Technical Product Marketing Manager with a strong foundation in soft
 
 ---
 
-## 🎓 Education
+### **🎓 Education**
 **Bachelor of Information Systems**  
-*Universidade Federal de Santa Catarina (Brazil)*
+*Universidade Federal de Santa Catarina – Brazil*
 
 ---
 
-## 📜 Certifications
+### **📜 Certifications**
 - Oracle Certified Java Programmer  
 - Oracle Cloud Infrastructure 2018 Certified Architect Associate  
 - Okta Certified Professional *(expired Sep 2023)*  

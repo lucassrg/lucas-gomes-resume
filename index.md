@@ -5,43 +5,59 @@ LinkedIn: [linkedin.com/in/lucassrg](https://linkedin.com/in/lucassrg)
 
 ---
 
-### 🧠 Professional Summary  
-Senior Technical Product Marketing Manager with over 15 years in tech, including deep experience in cloud infrastructure and developer tooling. I specialize in transforming complex technical capabilities into compelling stories that drive adoption—from live demos and Terraform reference architectures to whitepapers and analyst briefings. I've launched high-impact features, delivered enablement at scale, and created hands-on labs with GenAI and infrastructure-as-code platforms. Known for my collaborative approach and trusted as a technical voice in go-to-market efforts across Engineering, PM, and Sales.
+### Professional Summary  
+Senior Technical Product Marketing Manager with over 15 years in tech, including deep experience in cloud infrastructure, cloud security, and developer tooling. I specialize in transforming complex technical capabilities into compelling stories that drive adoption—from live keynote demos to e-books, reference architectures, whitepapers, and analyst briefings. I've launched high-impact features, led demo programs for flagship events and industry analyst evaluations, delivered enablement at scale, and created hands-on labs with GenAI and infrastructure-as-code platforms. Known for my collaborative approach and trusted as a technical voice in go-to-market efforts across Engineering, PM, and Sales.
 
 ---
 
-### 🛠 Skills  
-**Infrastructure & DevOps:** Terraform, Kitchen-Terraform, Terraform validate, Terraform-compliance, GitHub Actions, GitLab, Docker, Kubernetes, AWS, Oracle Cloud, Vercel  
+### Skills  
+**Cloud Security & Identity:** Wiz, Code Security, AI Security, OAuth2, OIDC, FAPI, Passkeys, OpenFGA, Okta, Auth0  
+**Go-to-Market:** Demo strategy & production, analyst evaluations (Gartner, Forrester), competitive intelligence, sales enablement, launch content  
+**Infrastructure & DevOps:** Terraform, Kitchen-Terraform, Terraform validate, Terraform-compliance, GitHub Actions, GitLab, Docker, Kubernetes, AWS, Google Cloud, Oracle Cloud, Vercel  
 **Languages & Frameworks:** Java, Python, Node.js, React, Next.js, Express, Flask, Kotlin  
 **GenAI & AI Tools:** Vercel AI, CrewAI, n8n, ElevenLabs, Ollama, Gemini, Claude, ChatGPT  
-**Identity & Security:** OAuth2, OIDC, FAPI, Passkeys, OpenFGA, Okta, Auth0  
 **Content Creation & Enablement:** Camtasia, Adobe Premiere Pro, After Effects, Figma, Keynote, Google Slides  
 **Developer & Platform Tools:** VS Code, Jenkins, Heroku, Glitch, GitHub
 
 ---
 
-### 🏆 Professional Recognition  
-* Employee of the Month, Okta PMM Team (Q3 2024) – Recognized for technical content, demos, and analyst briefing success. 
-* Winner – Okta Company-wide Internal Hackathon (April 2025)
+### Professional Recognition  
+* Employee of the Month, Okta PMM Team (Q3 2024) – Recognized for technical content, demos, and analyst briefing success.  
+* Winner – Okta Company-wide Internal Hackathon (April 2025)  
 **Project:** *AI Assistant for Seamless Auth0 Integration*  
-Built an AI assistant using CrewAI agents to analyze codebases, generate step-by-step Auth0 integration guides in Markdown, and produce PR-ready diff files. Chosen as the top project out of 80+ submissions. Also received the **"Love Our Customers" Award**, recognizing alignment with Okta’s core value by delivering a solution that enhances developer experience and accelerates customer onboarding.
+Built an AI assistant using CrewAI agents to analyze codebases, generate step-by-step Auth0 integration guides in Markdown, and produce PR-ready diff files. Chosen as the top project out of 80+ submissions. Also received the **"Love Our Customers" Award**, recognizing alignment with Okta's core value by delivering a solution that enhances developer experience and accelerates customer onboarding.
+
 ---
 
-### 💼 Professional Experience  
+### Professional Experience  
 
 **Sr. Technical Product Marketing Manager**  
-*Okta | Aug 2021 – Present*  
+*Wiz, Inc. | Sep 2025 – Present*  
+• Product-manage Wiz's live demo environment, where every customer-facing demo runs on live infrastructure as a golden demo at the platform and product/SKU level; partner with Product, Engineering, and Demo Engineering to plan, build, and validate demo scenarios.  
+• Co-direct Demo Engineering's priorities with the team's manager, setting what gets built and in what order across launches, events, and analyst work.  
+• Owned the build of every demo for Wizdom, Google Cloud Next 2026, and industry analyst sessions, from scenario design through live delivery.  
+• Delivered 100+ net-new demo scenarios into the demo environment in 12 months, supporting feature launches, flagship events, and analyst evaluations.  
+• Led the keynote demo for the first-ever Wizdom conference, where Wiz's VP of Product Marketing presented a live AI Security demo.  
+• Produced the main-stage live demo at Google Cloud Next 2026, presented by Wiz's co-founder alongside Google leaders.  
+• Presented a breakout session on Code and AI Security at Google Cloud Next 2026.  
+• Built and supported demos for industry analyst evaluations (Gartner Magic Quadrant, Forrester Wave) in which Wiz was named a Leader.  
+• Build rapid-response demos for high-profile security incidents such as React2Shell, PHP2Shell, and Shai-Hulud.  
+• Partner with Product to keep field assets current beyond demos, including Proof of Value (POV) materials and Cloud Security Workshop content.  
+• Delivered demo programs for major industry events, including RSA, AWS re:Invent, Black Hat, and Google Cloud Next.  
+• Partner with PMM to write, review, and update demo scripts, validating each use case end to end before it reaches customers.  
+• Authored an e-book on secure vibe-coding, one of Wiz's most popular content assets.  
+• Co-present demos with PMM and Enablement teams to train field and go-to-market teams.  
+• Lead competitive intelligence research and keep compete materials current.  
+• Built agentic AI tools to support go-to-market teams.
+
+**Sr. Technical Product Marketing Manager**  
+*Okta | Aug 2021 – Aug 2025*  
 • Led the demo strategy for Gartner and Forrester analyst evaluations—created 20+ custom demos under tight timelines and presented live to executive audiences.  
 • Delivered live keynote demo at Oktane 2023, showcasing passkey login in a Next.js app.  
 • Designed and ran a hands-on GenAI lab at Sales Kickoff 2025, combining Vercel AI, Auth0, and Google APIs to teach real-world AI integration.  
-• Developed technical content for go-to-market efforts—tutorials, blog posts, videos, diagrams, and internal enablement decks—that clarified complex features and improved adoption.  
 • Created demo content for top-tier events including Oktane (2021–2024), RSA, Identiverse, and Gartner IAM Forum.  
-• Co-authored whitepapers on Auth0 Passkeys and Fine-Grained Authorization (OpenFGA) to support deeper technical understanding across field and customer teams.  
-• Partnered closely with PMM, Product, and Engineering teams to refine messaging, provide technical walkthroughs, and review launch content for accuracy.  
-• Authored internal technical win stories, showcasing customer implementations and real-world problem solving.  
-• Reviewed beta documentation, catching bugs and usability gaps before launch.  
-• Mentored a technical intern by assigning demo projects, reviewing work, and supporting their growth.  
-• Joined sales calls to deliver technical demos and answer product questions, bridging the gap between marketing and engineering.
+• Co-authored whitepapers on Auth0 Passkeys and Fine-Grained Authorization (OpenFGA), and produced tutorials, videos, and enablement decks that improved feature adoption.  
+• Mentored a technical intern and joined sales calls to deliver technical demos, bridging marketing and engineering.
 
 **Principal Product Manager – OCI Developer Services / Adoption & Experience**  
 *Oracle | Jan 2021 – Aug 2021*  
@@ -80,14 +96,13 @@ Built an AI assistant using CrewAI agents to analyze codebases, generate step-by
 
 ---
 
-### 🎓 Education  
+### Education  
 **Bachelor of Information Systems**  
 *Universidade Federal de Santa Catarina – Brazil*
 
 ---
 
-### 📜 Certifications  
+### Certifications  
 - Oracle Certified Java Programmer  
 - Oracle Cloud Infrastructure 2018 Certified Architect Associate  
-- Okta Certified Professional *(expired Sep 2023)*  
 - PMC Level I – Pragmatic Institute
